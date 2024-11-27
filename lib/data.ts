@@ -144,7 +144,7 @@ export const projectsData = [
       "ThreeJS",
     ],
     imageUrl: wonderraw,
-    link: "https://www.eqlizenow.com/",
+    link: "https://store.wonder-raw.com/ ",
   },
   {
     title: "FirmSanad",
@@ -184,7 +184,7 @@ export const projectsData = [
       "Formik",
     ],
     imageUrl: eqlize,
-    link: "https://store.wonder-raw.com/",
+    link: "https://www.eqlizenow.com/",
   },
 ] as const;
 
