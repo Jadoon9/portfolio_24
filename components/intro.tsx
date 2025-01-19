@@ -57,17 +57,28 @@ export default function Intro() {
           </motion.span>
         </div>
       </div>
-
       <motion.h1
         className="mb-10 mt-4 px-4 text-2xl font-medium !leading-[1.5] sm:text-4xl"
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <span className="font-bold">Hello, I'm Shahzeb Jadoon.</span> I'm a{" "}
-        <span className="font-bold">Front-End developer</span> with{" "}
-        <span className="font-bold">6 years</span> of experience. I enjoy
-        building <span className="italic">scalable web applications</span>. My
-        focus is <span className="underline">front-end development</span>.
+        <span className="font-bold">Hello, I'm Shahzeb Jadoon.</span> I'm an{" "}
+        <span className="font-bold">Experienced Front-End Developer</span> with{" "}
+        <span className="font-bold">6 years</span> of expertise in building{" "}
+        <span className="italic">responsive</span>,{" "}
+        <span className="italic">user-friendly web applications</span> using{" "}
+        <span className="font-bold">React.js</span> and{" "}
+        <span className="font-bold">Next.js</span>. I'm proficient in{" "}
+        <span className="italic">modern frontend technologies</span>,{" "}
+        <span className="italic">state management</span>, and{" "}
+        <span className="italic">UI frameworks</span>. Skilled in{" "}
+        <span className="underline">optimizing application performance</span>{" "}
+        and{" "}
+        <span className="underline">
+          collaborating with cross-functional teams
+        </span>{" "}
+        to deliver{" "}
+        <span className="italic">high-quality, scalable web solutions</span>.
       </motion.h1>
 
       <motion.div
